@@ -8,7 +8,7 @@
       detection_area_left_expand_dist: 0.0              # [m]
       drivable_area_right_bound_offset: 0.0             # [m]
       drivable_area_left_bound_offset: 0.0              # [m]
-      object_envelope_buffer: 0.15                     # [m] def0.7
+      object_envelope_buffer: 0.15                     # [m] def0.7 vecode test
 
       # avoidance module common setting
       enable_bound_clipping: false
